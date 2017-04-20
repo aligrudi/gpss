@@ -1,3 +1,4 @@
+/* Linear hypergraphs for some point configurations */
 #include <stdio.h>
 #include <stdlib.h>
 

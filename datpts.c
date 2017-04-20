@@ -1,3 +1,4 @@
+/* Position points on the plane in some pattern (mostly grids) */
 #include <stdio.h>
 #include <stdlib.h>
 

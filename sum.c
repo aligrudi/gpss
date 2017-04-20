@@ -1,3 +1,4 @@
+/* Summarize the output of gpss */
 #include <stdio.h>
 
 #define NALG		4

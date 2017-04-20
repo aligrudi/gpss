@@ -1,3 +1,4 @@
+/* Extract the collinearity hypergraph of a set of points */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
