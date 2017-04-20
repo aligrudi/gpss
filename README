@@ -1,0 +1,16 @@
+GENERAL POSITION SUBSET SELECTION ALGORITHMS
+============================================
+
+This repository contains four algorithms for General Position Subset
+Selection (GPSS).
+
+* gpss: Implements GPSS algorithms; takes a linear hypergraph as input.
+  It prints four numbers: the number of points followed by the size
+  of the set returned by Ind, Inc, Inc-Min, and Dec.
+* datran: Generates random linear hypergraphs.
+* datpts: Places points on the plane according to some pattern.
+* datgen: Extract the collinearity hypergraph from a set of points.
+* datcnf: Some known configurations, printed as hypergraphs.
+
+The script dat.sh invokes datran, datpts, and datcnf to generate the
+test cases.
